@@ -2,7 +2,7 @@
 
 ## Test on CoSQA +
 
-The CoSQA + dataset is available in the following link:[https://drive.google.com/drive/folders/10tw69kI0xq5LDU02aJBfk39xpVjdVf7r?usp=drive_link](https://drive.google.com/file/d/1K7xUSswF18B5wYE8sm3cvFKVX6-POLlF/view?usp=sharing)
+The CoSQA + dataset is available in the following link: [https://drive.google.com/drive/folders/10tw69kI0xq5LDU02aJBfk39xpVjdVf7r?usp=drive_link](https://drive.google.com/file/d/1K7xUSswF18B5wYE8sm3cvFKVX6-POLlF/view?usp=sharing).
 
 Place the dataset file in the newly created dataset folder.
 
